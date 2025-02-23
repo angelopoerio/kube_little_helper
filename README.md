@@ -15,4 +15,4 @@ The tool analyzes the pods in the specified namespace or in all the available na
 Selecting the right model for your environment is a trial and error process. **Llama3** seems to be generic enough to perform well in most of the environments. 
 By using Ollama and a locally running model you are sure confidential data are not sent to any thirdy parties LLM provider (logs of a crashing pods could contain sensitive data you don't want to leak).
 
-This is a weekend project. Be careful at using it for read **production debugging!**
+This is a weekend project. Be careful at using it for real **production debugging!**
